@@ -38,7 +38,7 @@ The main stand out to me is how similar the word clouds are and how many words o
 
 # Image 2
 
-![Word Cloud 2, OK City](lab_02/img/wordcloud-2.png)
+![Word Cloud 2, OK City](https://github.com/jalensanders/lab_02/blob/main/img/wordcloud-2.png)
 
 
 # CSV Links (Google Drive)
