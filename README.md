@@ -33,7 +33,8 @@ The main stand out to me is how similar the word clouds are and how many words o
 
 # Image 1
 
-![Word Cloud 1, Seattle](lab_02/img/wordcloud-1.png)
+![Word Cloud 1, Seattle](https://github.com/jalensanders/lab_02/blob/main/img/wordcloud-1.png)
+
 
 # Image 2
 
