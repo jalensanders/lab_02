@@ -33,11 +33,11 @@ The main stand out to me is how similar the word clouds are and how many words o
 
 # Image 1
 
-![Word Cloud 1, Seattle](img/worldcloud-1.png)
+![Word Cloud 1, Seattle](lab_02/img/wordcloud-1.png)
 
 # Image 2
 
-![Word Cloud 2, OK City](wordcloud-2.png)
+![Word Cloud 2, OK City](lab_02/img/wordcloud-2.png)
 
 
 # CSV Links (Google Drive)
